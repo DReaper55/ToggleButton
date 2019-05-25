@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToggleButton</string>
+    <string name="hideandseek"><![CDATA[Hide & Seek]]></string>
+    <string name="hideme">Peek a boo!</string>
+</resources>
